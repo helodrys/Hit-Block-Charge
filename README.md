@@ -1,17 +1,20 @@
 # Hit-Block-Charge
+
 #### Video Demo:  <URL HERE>
+
 ## Description:
-It is a modded version of my childhood game I played in primary school. I am not really sure how can I translate the game name to english and make it sound good so just stick with Hit Block Charge for now. The game is super simple the player have 1 life and could do these 3 actions Charge, Block, and Attack(require at least 1 charge) because the game is super easy to get into there is a lots of add on from the player so the game is very diverse. That all for the background.
-My version is very close to the original but in a theme of cybersecurity display by using ascii art.
-This was my funny idea give to the group work in class but my friend drop it so I make it as fun project for CS50p
-How you like it!
+It is a modded version of my childhood game I played in primary school. I am not really sure how to translate the game name to English and make it sound good, so just stick with Hit Block Charge for now. The game is super simple. The player has 1 life and can do these 3 actions: Charge, Block, and Attack (requires at least 1 charge). Because the game is super easy to get into, there are lots of addons from players, so the game is very diverse. That's all for the background.
+
+My version is very close to the original but with a cybersecurity theme, displayed using ASCII art. This was my funny idea for a group project in class, but my friends dropped it, so I made it as a fun project for CS50p. Hope you like it!
+
 ## How to play:
-So there is 4 actions the player can do
-1.Charge -> Charge your enegy to use other actions
-2.Attack -> Attack the enemy which do not bypass defense wall require 1 charge
-3.Block -> Create a defense wall stackable to 3 
-4.Special Attack -> Special Attack that ignore defense wall and will hit enemy health directly require 3 charge
+So there are 4 actions the player can do:
+1. **Charge** -> Charge your energy to use other actions.
+2. **Attack** -> Attack the enemy (does not bypass the defense wall) and requires 1 charge.
+3. **Block** -> Create a defense wall (stackable up to 3 times).
+4. **Special Attack** -> A Special Attack that ignores the defense wall and hits the enemy's health directly (requires 3 charges).
+
 ## Credits:
-https://asciiart.website/index.php?art=art%20and%20design/patterns 
-https://emojicombos.com/fire-ascii-art
-https://www.asciiart.eu/weapons/explosives
+- [ASCII Art Patterns](https://asciiart.website/index.php?art=art%20and%20design/patterns)
+- [Fire ASCII Art](https://emojicombos.com/fire-ascii-art)
+- [Weapons Explosives ASCII Art](https://www.asciiart.eu/weapons/explosives)
