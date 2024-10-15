@@ -1,6 +1,6 @@
 # Hit-Block-Charge
 
-#### Video Demo:  <URL HERE>
+#### [Demo link]:  <URL HERE>
 
 ## Description:
 It is a modded version of my childhood game I played in primary school. I am not really sure how to translate the game name to English and make it sound good, so just stick with Hit Block Charge for now. The game is super simple. The player has 1 life and can do these 3 actions: Charge, Block, and Attack (requires at least 1 charge). Because the game is super easy to get into, there are lots of addons from players, so the game is very diverse. That's all for the background.
