@@ -15,6 +15,6 @@ So there are 4 actions the player can do:
 4. **Special Attack** -> A Special Attack that ignores the defense wall and hits the enemy's health directly (requires 3 charges).
 
 ## Credits:
-- [ASCII Art Patterns](https://asciiart.website/index.php?art=art%20and%20design/patterns)
+- [ASCII Art Wall Patterns](https://asciiart.website/index.php?art=art%20and%20design/patterns)
 - [Fire ASCII Art](https://emojicombos.com/fire-ascii-art)
-- [Weapons Explosives ASCII Art](https://www.asciiart.eu/weapons/explosives)
+- [Bomb Explosives ASCII Art](https://www.asciiart.eu/weapons/explosives)
